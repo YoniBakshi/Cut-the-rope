@@ -1,0 +1,6 @@
+﻿configure_file ("GameBackground.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Candy.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Frog.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Blower.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Star.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("StarScore.txt" ${CMAKE_BINARY_DIR} COPYONLY)

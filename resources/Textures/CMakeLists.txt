@@ -1,0 +1,28 @@
+﻿configure_file ("AnimationBlower.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("AnimationCandy.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("AnimationFrog.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("AnimationStar.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("AnimationStarScore.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("Limit.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Bubble.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Spike.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Rope.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("RopeBase.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("HatTeleport.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("GravityCange.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("HelpData.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Start.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Help.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Exit.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Back.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Reset.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("MenuBackground.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("GameBackground.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("StartMsg.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("LevelUpMsg.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("LoseMsg.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("WinMsg.png" ${CMAKE_BINARY_DIR} COPYONLY)

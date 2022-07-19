@@ -1,0 +1,5 @@
+﻿add_subdirectory (Board-File)
+add_subdirectory (Sounds)
+add_subdirectory (Textures)
+add_subdirectory (Fonts)
+add_subdirectory (Animation-Texts)
