@@ -1,4 +1,7 @@
 Cut The Rope
+
+Using: SFML and Box2d libraries
+
 The Goal : Get the candy back to Iggy, using variety of elements.
 
 Description :
